@@ -1,0 +1,10 @@
+.sticky-header{
+    position: sticky;
+    top: 0;
+    background-color: darkblue;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 2px 2px 2px black;
+    color: white;
+    text-align: center;
+}

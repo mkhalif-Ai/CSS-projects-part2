@@ -1,0 +1,29 @@
+.border-box{
+    padding: 20px;
+    margin: 20px;
+  background-color:whitesmoke;
+    box-sizing: border-box;
+    text-align: center;
+}
+.border-box a {
+    margin: 20px;
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    
+}
+.content-box{
+    width: 300px;
+    margin: 5px;
+    padding: 10px;
+    border: 5px solid grey;
+  box-sizing: content-box;
+    display: inline-block;
+
+}
+.content-box img {
+ width: 100%;
+  height: auto;
+    
+}

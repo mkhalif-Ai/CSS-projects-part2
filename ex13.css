@@ -1,0 +1,32 @@
+.fixed-navbar {
+  position: fixed;
+  top: 0;  
+  width: 100%;
+  background: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
+.fixed-navbar a {
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
+}
+.fixed-footer{
+ position: fixed;
+  bottom: 0;  
+  width: 100%;
+  background: #333;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+
+}
+.fixed-footer a {
+
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
+}

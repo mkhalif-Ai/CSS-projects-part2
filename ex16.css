@@ -1,0 +1,19 @@
+.media-player{
+    display: flex;
+    flex: 1;
+    width: 300px;
+   
+    
+}
+.control-button{
+    padding: 5px;
+     margin: 2px;
+     min-width: 60px;
+     border: none;
+     align-items: center;
+   background-color: black;
+   color: white;
+}
+.control-button.play{
+   flex: 2;
+}
